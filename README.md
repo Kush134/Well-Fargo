@@ -3,9 +3,6 @@
 
 ##Recommendation debug engine using log files
 
-
-[Check out our project on Heroku!](https://datasetbucket.herokuapp.com/)
-
 ## About
 
 A dataset bucket and a machine learning bias auditor 📈, fully responsive web-app built on Python, with [Flask](https://flask.palletsprojects.com/en/1.1.x/), [the MaterializeCSS UI grid system](https://materializecss.com/) and the [Kaggle API](https://www.kaggle.com/docs/api).
@@ -36,7 +33,6 @@ To confront this dangerous problem, we built a web app that analyzes a dataset f
 - [Git](https://git-scm.com/) - a version control system for for source code management; it allows tracking file changes and coordinating work on those files among multiple people and machines.
 - [GitHub](https://github.com/) - a open-source code hosting platform for version control and collaboration. It lets developers work remotely and together on projects from anywhere.
 
-##### We used a lot of python libraries for building this project. Know more about them from [LIBRARIES.md](https://github.com/kescardoso/datasetbucket/blob/main/LIBRARIES.md).
 
 ## App Walkthrough
 
