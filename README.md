@@ -1,5 +1,5 @@
 #   Wells Fargo - Hackathon
-##Our Problem Statement:
+##Our Problem Statement
 
 ##Recommendation debug engine using log files
 
